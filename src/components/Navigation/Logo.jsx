@@ -10,7 +10,7 @@ export default function Logo() {
           href="https://zerotomastery.io/"
           target="_blank"
         >
-          Face Recognition App
+          Face Recognition
         </a>
       </div>
     </Tilt>
