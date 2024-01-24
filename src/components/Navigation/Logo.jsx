@@ -4,7 +4,7 @@ import Tilt from "react-parallax-tilt";
 export default function Logo() {
   return (
     <Tilt>
-      <div className="p">
+      <div>
         <a
           className="text-3xl border-4 border-black p-5 hover:text-white hover:border-white duration-200"
           href="https://zerotomastery.io/"
