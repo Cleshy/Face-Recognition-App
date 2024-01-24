@@ -3,14 +3,14 @@ import Logo from "./Logo";
 
 export default function Navigation() {
   return (
-    <header className="w-screen bg-white text-2xl p-8">
-      <nav className="flex justify-between">
+    <header className="w-screen px-10 py-14">
+      <nav className="flex justify-between items-center">
         <Logo />
-        <ul>
+        <ul className="pr-6">
           <li>
             <a
               href="#"
-              className="duration-200 border-b-2 border-transparent hover:border-black"
+              className="text-3xl text-gray-900 hover:text-white tracking-wider border-2 border-transparent hover:border-b-white duration-200"
             >
               Sign In
             </a>
