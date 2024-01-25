@@ -10,14 +10,11 @@ export default function Navigation() {
           <li>
             <a
               href="#"
-              className="text-3xl text-gray-900 hover:text-white tracking-wider border-2 border-transparent hover:border-b-white duration-200"
+              className="text-3xl text-white tracking-wider border-2 border-transparent hover:border-b-white duration-200"
             >
-              Sign In
+              Sign Out
             </a>
           </li>
-          {/* <li>
-            <a href="#">Sign Out</a>
-          </li> */}
         </ul>
       </nav>
     </header>
